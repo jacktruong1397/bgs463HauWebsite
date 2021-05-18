@@ -11,6 +11,16 @@
 <h3>HTML and CSS TUTORIALS.</p>
 <a href="https://www.w3schools.com">w3schools</a> <br>
 <a href="https://www.codecademy.com">codeacademy</a>
+<style>
+body {
+    color: black;
+    padding: 2em;
+}
+
+footer {
+    margin-top: 64px;
+}
+</style>
 </article>
 
     <footer>
